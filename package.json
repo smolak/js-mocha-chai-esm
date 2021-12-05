@@ -4,7 +4,7 @@
   "description": "JS mocha chai esm boilerplate",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "export TZ=UTC; mocha -r esm"
   },
   "repository": {
     "type": "git",
