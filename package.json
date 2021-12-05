@@ -1,0 +1,24 @@
+{
+  "name": "js-mocha-chai-esm",
+  "version": "1.0.0",
+  "description": "JS mocha chai esm boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smolak/js-mocha-chai-esm.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smolak/js-mocha-chai-esm/issues"
+  },
+  "homepage": "https://github.com/smolak/js-mocha-chai-esm#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "esm": "^3.2.25",
+    "mocha": "^9.1.3"
+  }
+}
